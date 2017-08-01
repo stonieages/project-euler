@@ -1,0 +1,1 @@
+Solving problems 1 and 2 of Project Euler in JavaScript as part of The Odin Project. Might do more if I get curious!
